@@ -1,0 +1,15 @@
+/******************************************************************
+*Maria Fernanda Becerra, mfbecerr
+*2020 Spring CSE101 PA1
+*README
+******************************************************************/
+Files Sumbitted 
+List.h, header file for List.c
+List.c, List ADT
+ListClient.c, Client file for List.h
+Lex.c, takes two command line arguments, an input file and an output file,
+and organizes lines from the input file in alphabetical order
+and prints it to the output file
+Makefile, creates executable binary file called Lex, includes a clean target
+that removes .o files
+README, list of all filees submitted and a short description of their role
